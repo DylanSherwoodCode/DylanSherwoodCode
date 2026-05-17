@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DylanSherwoodCode
-- 👀 I’m interested in being a self taught programmer
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on other beginner projects
-- 📫 How to reach me dylansherwood26@outlook.com
+- Hi I'm Dylan, I enjoy building things.
 
 
 <!---
