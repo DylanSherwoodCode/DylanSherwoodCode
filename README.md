@@ -1,4 +1,4 @@
-- Hi I'm Dylan, I enjoy building things.
+- Hi, I'm Dylan; I enjoy building things.
 
 
 <!---
